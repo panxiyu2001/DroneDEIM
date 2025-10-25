@@ -1,8 +1,6 @@
 ⚠️ The complete code will be released after acceptance.
 
 #
-
-This repository contains the LaTeX source code for the paper
 ****
 It introduces DroneDEIM, a novel detection framework for UAV object detection, addressing extreme density and tiny objects.
 
