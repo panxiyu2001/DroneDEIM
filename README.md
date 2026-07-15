@@ -1,4 +1,4 @@
-⚠️ The complete code will be released after acceptance.
+**📍News: Our paper "Frequency-Aware Disentanglement for Dense and Tiny Object Detection in UAV Imagery" has been accepted by the IEEE International Conference on Multimedia and Expo (ICME) 2026.**
 
 #
 ****
